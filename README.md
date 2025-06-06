@@ -88,17 +88,18 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/devank-k/Parallax-Website" title="Parallax Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=Parallax-Website&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/devank-k/Parallax-Website" title="Parallax-Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=Parallax-Website&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/devank-k/Parallax-Website" title="Parallax Website"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=Parallax-Website&theme=react&border_color=61dafb&border_radius=10"></a>
+<!--   <a align="right" href="https://github.com/devank-k/Parallax-Website" title="Parallax-Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=Parallax-Website&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/devank-k/Budget_Manager_Web_Extension" title="Budget_Manager_Web_Extension"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=Budget_Manager_Web_Extension&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/devank-k/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+<!--   <a align="right" href="https://github.com/devank-k/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/devank-k/Lost-and-found" title="Lost and Found"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=Lost-and-found&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/devank-k/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a>
+<!--   <a align="right" href="https://github.com/devank-k/javascript-minesweeper" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=devank-k&repo=javascript-minesweeper&theme=react&border_color=61dafb&border_radius=10"></a> -->
 </div>
 <br/><br/><br/><br/><br/><br/>
 
