@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/devank-k/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/adevankkh123" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://www.instagram.com/dev_n_k_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+<!--   <code><a href="https://www.instagram.com/dev_n_k_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code> -->
 </h5>
 <br>
 <p align="center">
