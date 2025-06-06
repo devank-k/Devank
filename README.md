@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Devank...;Nice+to+meet+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Devank...;Nice+to+meet+you&center=true&size=30"/>
   </a>
 </h1>
 
@@ -13,10 +13,10 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Devank Khuteta, B.Tech CSE Student & Aspiring Software Developer from India  
+  Hi, I'm Devank Khuteta, B.Tech CSE Student & Aspiring Data Engineer from India  
   <br>
   <br>
-  🎓 I'm currently in my second year of B.Tech in Computer Science and Engineering at Jaypee University of Information Technology, Shimla
+  🎓 I'm currently in my third year of B.Tech in Computer Science and Engineering at Jaypee University of Information Technology, Shimla
   <br>
   💻 I love coding, designing, and participating in different university events
   <br>
